@@ -1,0 +1,14 @@
+.container{
+    height: 100vh;
+}
+
+.card-body,
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+h1{
+    font-size: 10em;
+}
